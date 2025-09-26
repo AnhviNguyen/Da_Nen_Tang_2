@@ -16,6 +16,7 @@ const MusicLibrary = ({ musicFiles, currentTrack, onPlay, onDelete }) => {
     return `${mins}:${secs.toString().padStart(2, '0')}`;
   };
 
+
   const getFileType = (file) => {
     return file.mediaType || (file.type.startsWith('video/') ? 'video' : 'audio');
   };
