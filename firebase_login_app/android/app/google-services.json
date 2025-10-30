@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064164860634",
+    "project_id": "login-4de90",
+    "storage_bucket": "login-4de90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064164860634:android:1af44fb2aa6b4bb5443be3",
+        "android_client_info": {
+          "package_name": "com.admin.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUxh3kxUQBUOD0H6ps1RfOM_MVJhx9dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
